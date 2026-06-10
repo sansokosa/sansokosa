@@ -28,14 +28,14 @@
   />
   <source
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350" />
 </picture>
 <picture>
   <source
     srcset="https://streak.k6s.io?user=sansokosa&card_width=350&theme=dark"
-    media="(prefers-color-scheme: white)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://streak.k6s.io?user=sansokosa&card_width=350"
