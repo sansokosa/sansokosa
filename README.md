@@ -3,7 +3,7 @@
 ## In general: Systems Engineer
 * ⛓️‍💥 Also independent specialist, employee and student
 * 📨 Mail: hooward@proton.me 
-- 🔧 Continuous learner, knowledge sharer and contributor
+* 🔧 Continuous learner, knowledge sharer and contributor
 
 ## 👾 Stack:
 ![Linux](https://img.shields.io/badge/Linux-DAA520.svg?style=for-the-badge&logo=Linux&logoColor=white)
@@ -17,7 +17,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 
-## 📊 Stats
+### 📊 Stats
 <picture>
   <source
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=dark"
