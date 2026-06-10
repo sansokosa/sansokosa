@@ -42,5 +42,5 @@
 </picture>
 
 ### 🫸 Connect
-[![hooward@proton.me](https://img.shields.io/badge/hooward@proton.me%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooward@proton.me)
+[![hooward@proton.me](https://img.shields.io/badge/hooward@proton.me%20-%23E62B1E.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hooward@proton.me)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sl4ktra)
