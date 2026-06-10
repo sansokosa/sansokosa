@@ -24,7 +24,7 @@
 <picture>
   <source
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: white)"
   />
   <source
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350"
@@ -35,7 +35,7 @@
 <picture>
   <source
     srcset="https://streak.k6s.io?user=sansokosa&card_width=350&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: white)"
   />
   <source
     srcset="https://streak.k6s.io?user=sansokosa&card_width=350"
