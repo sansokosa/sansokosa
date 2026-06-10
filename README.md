@@ -1,11 +1,11 @@
 # Welcome. I'm Denis
 
-##bIn general: Systems Engineer
+## In general: Systems Engineer
 * ⛓️‍💥 Also independent specialist, employee and student
 * 📨 Mail: hooward@proton.me 
 - 🔧 Continuous learner, knowledge sharer and contributor
 
-##👾 Stack:
+## 👾 Stack:
 ![Linux](https://img.shields.io/badge/Linux-DAA520.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1E90FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
