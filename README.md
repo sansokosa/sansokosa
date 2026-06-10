@@ -1,5 +1,4 @@
 # Welcome. I'm Denis
-===============================================================================================================================
 
 ## In general: Systems Engineer
 ---------------
@@ -25,7 +24,7 @@
 
 <picture>
   <source
-    srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=night"
+    srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -36,14 +35,14 @@
 </picture>
 <picture>
   <source
-    srcset="https://streak.k6s.io?user=sansokosa&card_width=350&theme=night"
+    srcset="https://streak.k6s.io?user=sansokosa&card_width=350&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://streak.k6s.io?user=sansokosa&card_width=350"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak.k6s.io?user=sansokosa&card_width=350&theme=night" />
+  <img src="https://streak.k6s.io?user=sansokosa&card_width=350&theme=dark" />
 </picture>
 
 ### 🫸 Connect
