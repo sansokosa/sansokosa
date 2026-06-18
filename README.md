@@ -6,7 +6,6 @@
 
 ## In general: Systems Engineer
 * ⛓️‍💥 Also independent specialist, employee and student
-* 📨 Mail: hooward@proton.me 
 * 🔧 Continuous learner, knowledge sharer and contributor
 
 ## 👾 Tech Stack:
