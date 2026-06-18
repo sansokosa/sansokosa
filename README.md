@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/sansokosa/sansokosa/blob/main/asdf?raw=true">
+<img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true">
   <!-- Source/Credits: https://www.animatedimages.org/ -->
 </p>
 
