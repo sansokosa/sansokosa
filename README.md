@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="200">
+<img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="300">
 </p>
 
 # Welcome. I'm Denis
