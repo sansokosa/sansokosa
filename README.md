@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="300">
 </p>
 
