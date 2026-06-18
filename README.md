@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="300">
 </p>
+
 ## In general: Systems Engineer
 * ⛓️‍💥 Also independent specialist, employee and student
 * 🔧 Continuous learner, knowledge sharer and contributor
