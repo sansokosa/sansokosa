@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true">
-  <!-- Source/Credits: https://www.animatedimages.org/ -->
+<img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="200">
 </p>
 
 # Welcome. I'm Denis
