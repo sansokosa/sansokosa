@@ -1,8 +1,9 @@
 <p align="center">
 # Welcome. I'm Denis
-
+  </p>
+<p align="center">
 <img src="https://github.com/sansokosa/sansokosa/blob/main/adsfb.gif?raw=true" width="300">
-
+</p>
 
 ## In general: Systems Engineer
 * ⛓️‍💥 Also independent specialist, employee and student
@@ -48,4 +49,4 @@
 ### 🫸 Connect
 [![hooward@proton.me](https://img.shields.io/badge/hooward@proton.me%20-4B0082.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hooward@proton.me)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sl4ktra)
-</p>
+
