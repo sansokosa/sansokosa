@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/sansokosa/sansokosa/blob/main/14t?raw=true">
+  <!-- Source/Credits: https://www.animatedimages.org/ -->
+</p>
+
 # Welcome. I'm Denis
 
 ## In general: Systems Engineer
@@ -17,9 +22,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 
+<!--
 ### 📊 Stats
 <picture>
-  <source
+  <source>
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
@@ -40,7 +46,7 @@
   />
   <img src="https://streak.k6s.io?user=sansokosa&card_width=350&theme=dark" />
 </picture>
-
+-->
 ### 🫸 Connect
 [![hooward@proton.me](https://img.shields.io/badge/hooward@proton.me%20-4B0082.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hooward@proton.me)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sl4ktra)
